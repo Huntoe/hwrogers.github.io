@@ -1,0 +1,22 @@
+@charset "utf-8";
+h1 {
+    font-family: "Yu Gothic";
+    font-style: italic;
+    text-align: center;
+    margin-top: 40px;
+    float: left;
+    font-size: 3em;
+}
+body {
+    background-image: url(../assets/sunset-g9cf3d7e2a_1920.jpg);
+}
+section {
+    background-color: #AA7D44;
+    border-radius: 10px;
+    width: 50%;
+    height: 350px;
+    float: right;
+    font-size: large;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    margin-top: 40px;
+}

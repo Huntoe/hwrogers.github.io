@@ -1,0 +1,65 @@
+@charset "utf-8";
+body {
+    background-color: #8D73E4;
+    background-image: url(../assets/web-gff6babc04_1920.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-size: large;
+    font-style: italic;
+    margin-top: 30px;
+    text-decoration: none;
+    float: none;
+    text-align: center;
+}
+header {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    font-style: italic;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+    float: left;
+    color: #FFFFFF;
+}
+section {
+    background-color: #862C2C;
+    color: #FFFFFF;
+    width: 40%;
+    margin-left: 1%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 15px;
+    float: right;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+form {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+}
+
+aside {
+    float: left;
+    width: 50%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+footer {
+    color: #FFF9F9;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-size: x-small;
+    text-align: center;
+    clear: both;
+    position: fixed;
+	bottom: 0px;
+    width: 100%;
+	height: 
+}
